@@ -3,7 +3,7 @@ Das ist unser erstes Repository.
 
 ## Zweiter Abschnitt
 
-asdfasdf
+asdfasd
 
 - liste
 - über
